@@ -1,0 +1,3 @@
+## this counter was created as part of learning  Javascripts...
+
+the video i refered was https://www.youtube.com/watch?v=lfmg-EJ8gm4&t=2689s
